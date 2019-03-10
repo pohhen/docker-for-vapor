@@ -1,0 +1,4 @@
+# By default ignore everything
+*
+# Allow what is needed
+!apt-vapor.sh
